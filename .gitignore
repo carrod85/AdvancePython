@@ -1,0 +1,10 @@
+#ignore metadata of .DS_Store
+.DS_Store
+#ignore config iterpreter
+.idea/
+#ignore environment parameters
+env/
+#ignore zip folders
+homework1_CarlosRodriguez.zip
+homework2_CarlosRodriguez.zip
+homework3_CarlosRodriguez.zip

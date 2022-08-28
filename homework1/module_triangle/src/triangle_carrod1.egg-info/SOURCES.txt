@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/triangle_carrod/__init__.py
+src/triangle_carrod/area_triangle.py
+src/triangle_carrod1.egg-info/PKG-INFO
+src/triangle_carrod1.egg-info/SOURCES.txt
+src/triangle_carrod1.egg-info/dependency_links.txt
+src/triangle_carrod1.egg-info/top_level.txt
