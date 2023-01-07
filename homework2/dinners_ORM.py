@@ -1,4 +1,4 @@
-"""Homework 2 -part B. Carlos Rodriguez 201841IVSB"""
+"""Homework 2 -part B. """
 
 from sqlalchemy import create_engine, MetaData, Table, Column, Integer, String, ForeignKey
 from sqlalchemy.orm import sessionmaker

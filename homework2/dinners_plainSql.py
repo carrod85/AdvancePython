@@ -1,4 +1,4 @@
-"""Homework 2 -part A. Carlos Rodriguez 201841IVSB"""
+"""Homework 2 -part A."""
 
 import sqlite3
 
